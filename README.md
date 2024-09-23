@@ -1,10 +1,6 @@
 # asap-back-translation
 Back-translation essays using Chinese and French from ASAP dataset
 
-## Improving Performance of Automated Essay Scoring by using back-translation essays and adjusted scores
-
-
-
 - bt_essays
 
   ​	translated essays and back-translation essays. As the amount of data that Google Translator can process at one time is limited, the original essays were divided into 8 equal-sized parts for translation.
